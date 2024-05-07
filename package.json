@@ -1,0 +1,20 @@
+{
+  "name": "oussama",
+  "version": "1.0.0",
+  "description": "workshop express",
+  "main": "server.js",
+  "scripts": {
+    "test": "node js express mongodb"
+  },
+  "keywords": [
+    "Node.js",
+    "express",
+    "mongodb"
+  ],
+  "author": "Oussama",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.6.1"
+  }
+}
